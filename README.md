@@ -90,3 +90,22 @@ Final Statistics:
   Total Errors:  58
   Final Error Rate: 29.3%
   System Accuracy:  70.7%
+
+
+
+
+NUM_DISKS = 3  
+K_THRESHOLD = 10
+MAX_TOKENS = 750 
+Model llama-3.1-8b-instruct
+temperature=0.7
+Context Limit on model is set to 2000
+
+1st run
+
+SOLVED in 29 steps!
+Final Statistics:
+  Total Samples: 1394
+  Total Errors:  1062
+  Final Error Rate: 76.2%
+  System Accuracy:  23.8%
