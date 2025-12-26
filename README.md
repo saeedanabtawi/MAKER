@@ -109,3 +109,11 @@ Final Statistics:
   Total Errors:  1062
   Final Error Rate: 76.2%
   System Accuracy:  23.8%
+
+2nd run
+SOLVED in 22 steps!
+Final Statistics:
+  Total Samples: 1031
+  Total Errors:  772
+  Final Error Rate: 74.9%
+  System Accuracy:  25.1%
